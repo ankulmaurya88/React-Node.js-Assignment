@@ -37,5 +37,5 @@ This repository contains a full-stack application built using **React.js** for t
 
 ---
 
-## 📂 Folder Structure
+
 

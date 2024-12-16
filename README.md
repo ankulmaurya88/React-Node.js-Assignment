@@ -38,4 +38,42 @@ This repository contains a full-stack application built using **React.js** for t
 ---
 
 
+## 🔧 Installation and Setup
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ankulmaurya88/React-Node.js-Assignment.git
+   cd React-Node.js-Assignment
+
+---
+
+## Install dependencies for both the frontend and backend:
+  
+  ```
+  cd frontend
+  npm install
+
+```
+    cd backend
+    npm install
+```
+   npm start
+
+```
+    npm run dev
+---
+
+##  Scripts
+---
+
+1 . Frontend : 
+```
+npm start: Runs the React app in development mode.
+npm build: Builds the React app for production.
+```
+
+2 . Backend :
+```
+npm run dev: Runs the server in development mode.
+npm start: Starts the server in production mode.
+```
